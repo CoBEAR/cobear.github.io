@@ -1,3 +1,7 @@
+---
+layout: post
+title: OSC 2015 Tokyo/Spring 参加
+---
 2015/2/27-2015/2/28 に東京の明星大学で開催される[オープンソースカンファレンス](http://www.ospn.jp/osc2015-spring/)にて、XOOPS Cube ブースをお借りして CoBEAR の紹介を行います。
 といっても、チラシをお配りするだけですけど（すみません >_< ）。
 
