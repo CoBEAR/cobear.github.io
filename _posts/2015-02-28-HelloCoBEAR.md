@@ -1,6 +1,12 @@
+---
+layout: post
+title: Hello CoBEAR
+---
 昨日今日と、オープンソースカンファレンスの合間に CoBEAR の開発をはじめました。
 
 そしてついに、ブラウザで Hello, World の表示に成功しました。
+
+![Hello CoBEAR](../images/HelloCoBEAR.png)
 
 これは、小さな一歩に見えますが、実はそこそこ大変でした。
 
